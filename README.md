@@ -15,7 +15,7 @@
 
 This project aims to utilize AI tools (ChatGPT, Google AI Mode) and perform different data preprocessing tasks such as normalization, cleaning and enrichment on raw data provided by FMCG Client.
 - Review the raw data and understand metadata
-- Use AI tools for data preprocessing
+- Use AI tools for data preprocessing and create a data model
 - Enrich data with additional features (if possible)
 
 
