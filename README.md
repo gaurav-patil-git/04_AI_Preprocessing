@@ -1,4 +1,4 @@
-# 🤖 AI Data Preprocessing | Fast-moving Consumer Goods
+# 🤖 AI Preprocessing | Fast-moving Consumer Goods
 
 ### Perform data preprocessing activities (normalization, cleaning etc.) using AI Tools for business/data analytics team working with an FMCG company.
 
