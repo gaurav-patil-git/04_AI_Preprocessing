@@ -23,6 +23,9 @@ This project aims to utilize AI tools (ChatGPT, Google AI Mode) and perform diff
 
 `.xlsx` file located in `/data/raw` folder
 
+![raw-dataset](https://github.com/gaurav-patil-git/04_AI_Preprocessing/blob/main/visuals/fmcg-raw-data.png)
+
+
 <h2><a class="anchor" id="tools-technologies"></a>🛠️ Tools & Technologies</h2>
 
 | Task                 | Tools Used                          |
@@ -40,7 +43,9 @@ This project aims to utilize AI tools (ChatGPT, Google AI Mode) and perform diff
 │   ├── raw/               # Original, immutable data dumps
 │   ├── processed/         # Cleaned & processed datasets
 │
-├── visuals/               # screenshots
+├── documents/             # Prompt bank
+│
+├── visuals/               # Screenshots
 │
 ├── README.md              # High-level project overview
 ├── .gitignore             # Ignore data, models, logs if using Git
@@ -83,6 +88,8 @@ This project aims to utilize AI tools (ChatGPT, Google AI Mode) and perform diff
 - Used **Prompt 5A** to research administrative regions of India.
 - Used **Prompt 5B** to transform unstructured data into structured data.
 - Enriched `dim_state` by enriching it with `zone` feature.
+
+![final-model](https://github.com/gaurav-patil-git/04_AI_Preprocessing/blob/main/visuals/final-data-model.png)
 
 <h2><a class="anchor" id="credits"></a>🪪 Credits</h2>
 
